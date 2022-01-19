@@ -1,7 +1,8 @@
-![java](https://user-images.githubusercontent.com/32490159/138323715-ec77740d-0eb1-42ad-9a38-17b0a4061a5b.jpeg)
-![gradle](https://user-images.githubusercontent.com/32490159/138323739-7b09ca9d-f8fe-4b5a-9494-9858acf957e1.png)
-![junit](https://user-images.githubusercontent.com/32490159/138323764-ed4401f6-2c32-404f-af38-8bf6c040cc33.png)
-![selenide](https://user-images.githubusercontent.com/32490159/138323776-007f43b5-8819-4e46-90e5-73254f6b854a.jpeg)
-![jenkins](https://user-images.githubusercontent.com/32490159/138324083-1992937f-946f-4b1d-9fe3-dbe3155ac0d0.jpeg)
-![allure](https://user-images.githubusercontent.com/32490159/138323809-440254e7-c44f-4129-a2d1-dcdfde4eb1fa.jpeg) 
-![Telegram-logo](https://user-images.githubusercontent.com/32490159/138324199-27e1eea4-b750-4b78-a777-0eaab144824e.png)
+___
+<h3 align="left">My stack:</h3>
+
+|  Java  | Gradle | Junit5 | Selenide | GitHub | Jenkins | Selenoid | Allure Report | Allure TestOps |   Jira   | Telegram | Appium |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| ![Image alt](https://github.com/VeronikaMonarkhovich/VeronikaMonarkhovich/blob/master/logo/Java.png) | <img src="logo/Gradle.png" width="40" height="40"> | <img src="logo/JUnit5.png" width="40" height="40"> | <img src="logo/Selenide.png" width="40" height="40"> | <img src="logo/Github.png" width="40" height="40"> | <img src="logo/Jenkins.png" width="40" height="40"> | <img src="logo/Selenoid.png" width="40" height="40"> | <img src="logo/Allure_Report.png" width="40" height="40"> | <img src="logo/AllureTestOps.png" width="40" height="40"> | <img src="logo/Jira.png" width="40" height="40"> | <img src="logo/Telegram.png" width="40" height="40"> |<img src="logo/appium.jpg" width="40" height="40"> |
+
+___
