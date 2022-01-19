@@ -1,8 +1,8 @@
-___
-<h3 align="left">My stack:</h3>
+### :gear: My skills
+| IDEA | Java | Selenide | Selenoid | Allure Report | Gradle | Junit5 | GitHub |
+|:--------:|:-------------:|:---------:|:-------:|:----:|:------:|:----:|:----:|
+| <img src="images/Intelij_IDEA.svg" width="40" height="40"> | <img src="images/JAVA.svg" width="40" height="40"> | <img src="images/Selenide.svg" width="40" height="40"> | <img src="images/Selenoid.svg" width="40" height="40"> | <img src="images/Allure_Report.svg" width="40" height="40"> | <img src="images/Gradle.svg" width="40" height="40"> | <img src="images/Junit5.svg" width="40" height="40"> | <img src="images/GitHub.svg" width="40" height="40"> |
 
-|  Java  | Gradle | Junit5 | Selenide | GitHub | Jenkins | Selenoid | Allure Report | Allure TestOps |   Jira   | Telegram | Appium |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| ![Image alt](https://github.com/VeronikaMonarkhovich/VeronikaMonarkhovich/blob/master/logo/Java.png) | <img src="logo/Gradle.png" width="40" height="40"> | <img src="logo/JUnit5.png" width="40" height="40"> | <img src="logo/Selenide.png" width="40" height="40"> | <img src="logo/Github.png" width="40" height="40"> | <img src="logo/Jenkins.png" width="40" height="40"> | <img src="logo/Selenoid.png" width="40" height="40"> | <img src="logo/Allure_Report.png" width="40" height="40"> | <img src="logo/AllureTestOps.png" width="40" height="40"> | <img src="logo/Jira.png" width="40" height="40"> | <img src="logo/Telegram.png" width="40" height="40"> |<img src="logo/appium.jpg" width="40" height="40"> |
-
-___
+| Jenkins | Allure TO | Jira | Rest-Assured | Appium | Docker | Browserstack |
+|:------:|:------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| <img src="images/Jenkins.svg" width="40" height="40"> | <img src="images/Allure_TO.svg" width="40" height="40"> | <img src="images/Jira.svg" width="40" height="40"> | <img src="images/Rest-Assured.svg" width="40" height="40"> | <img src="images/Appium.svg" width="40" height="40"> | <img src="images/Docker.svg" width="40" height="40"> | <img src="images/Browserstack.svg" width="40" height="40"> |
