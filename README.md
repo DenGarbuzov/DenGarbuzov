@@ -1,4 +1,4 @@
-**Made with** ![java](https://user-images.githubusercontent.com/32490159/138323715-ec77740d-0eb1-42ad-9a38-17b0a4061a5b.jpeg)
+![java](https://user-images.githubusercontent.com/32490159/138323715-ec77740d-0eb1-42ad-9a38-17b0a4061a5b.jpeg)
 ![gradle](https://user-images.githubusercontent.com/32490159/138323739-7b09ca9d-f8fe-4b5a-9494-9858acf957e1.png)
 ![junit](https://user-images.githubusercontent.com/32490159/138323764-ed4401f6-2c32-404f-af38-8bf6c040cc33.png)
 ![selenide](https://user-images.githubusercontent.com/32490159/138323776-007f43b5-8819-4e46-90e5-73254f6b854a.jpeg)
