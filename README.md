@@ -5,4 +5,4 @@
 
 | Jenkins | Allure TO | Jira | Rest-Assured | Appium | Docker | Browserstack |
 |:------:|:------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| <img src="icons/Jenkins.png" width="40" height="40"> | <img src="icons/Allure_TO.png" width="40" height="40"> | <img src="icons/jira.jpeg" width="40" height="40"> | <img src="icons/Rest-Assured.png" width="40" height="40"> | <img src="icons/appium.png" width="40" height="40"> | <img src="icons/docker.png" width="40" height="40"> | <img src="icons/browserstack.jpeg" width="40" height="40"> |
+| <img src="icons/Jenkins.png" width="40" height="40"> | <img src="icons/testops_fav2.png" width="40" height="40"> | <img src="icons/jira.jpeg" width="40" height="40"> | <img src="icons/Rest-Assured.png" width="40" height="40"> | <img src="icons/appium.png" width="40" height="40"> | <img src="icons/docker.png" width="40" height="40"> | <img src="icons/browserstack.jpeg" width="40" height="40"> |
